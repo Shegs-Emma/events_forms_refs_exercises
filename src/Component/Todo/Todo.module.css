@@ -1,0 +1,30 @@
+.Todo {
+    padding: 5%;
+}
+
+.TodoData {
+    padding: 10px;
+    text-align: justify;
+}
+
+.TodoButtonDel {
+    background-color: rgb(223, 92, 92);
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.TodoButtonCom {
+    background-color: rgb(116, 116, 245);
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.TodoCompleted {
+    text-decoration: line-through;
+    padding: 10px;
+    text-align: justify;
+}
